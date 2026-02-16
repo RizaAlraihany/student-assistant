@@ -13,14 +13,18 @@ Student Assistant adalah platform pembelajaran interaktif yang memanfaatkan Goog
 
 ## 🌐 Live Demo
 
-> **🚀 Try it now:** [https://student-assistant-demo.vercel.app](https://student-assistant-demo.vercel.app)
+[![GitHub Pages](https://img.shields.io/badge/Demo_Page-Live-success?style=for-the-badge&logo=github)](https://rizaalraihany.github.io/student-assistant/)
+[![Vercel](https://img.shields.io/badge/Frontend-Live-blue?style=for-the-badge&logo=vercel)](https://student-assistant-demo.vercel.app)
+
+**🚀 Demo Page**: [https://rizaalraihany.github.io/student-assistant/](https://rizaalraihany.github.io/student-assistant/)
+
+**💻 Try the App**: [https://student-assistant-demo.vercel.app](https://student-assistant-demo.vercel.app)
 
 ### Demo Credentials
-
 | Role | Email | Password |
 |------|-------|----------|
-| **Admin** | admin@example.com | password123 |
-| **User** | user@example.com | password123 |
+| Admin | admin@example.com | password123 |
+| User | user@example.com | password123 |
 
 > **Note:** Demo menggunakan shared environment. Data dapat di-reset setiap hari.
 
