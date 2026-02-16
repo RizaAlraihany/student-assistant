@@ -18,8 +18,6 @@ Student Assistant adalah platform pembelajaran interaktif yang memanfaatkan Goog
 
 **🚀 Demo Page**: [https://rizaalraihany.github.io/student-assistant/](https://rizaalraihany.github.io/student-assistant/)
 
-**💻 Try the App**: [https://student-assistant-demo.vercel.app](https://student-assistant-demo.vercel.app)
-
 ### Demo Credentials
 | Role | Email | Password |
 |------|-------|----------|
